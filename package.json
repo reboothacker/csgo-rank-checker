@@ -1,0 +1,36 @@
+{
+  "name": "csgo-pr-checker",
+  "version": "1.0.0",
+  "description": "csgo-pr-checker",
+  "main": "bot.js",
+  "dependencies": {
+    "buffer-crc32": "^0.2.13",
+    "bytebuffer": "^5.0.1",
+    "csgo": "^1.5.14",
+    "fast-csv": "^2.5.0",
+    "steam": "^1.4.1",
+    "steam-client": "^2.5.8",
+    "steam-community": "^0.2.2",
+    "steam-crypto": "^0.0.1",
+    "steam-tradeoffers": "^3.2.1",
+    "steam-user": "^4.23.0",
+    "steam-web-api": "^0.0.1",
+    "steam-web-api-key": "0.0.4",
+    "steam-weblogon": "^0.0.5",
+    "wait-for-event": "^1.0.0"
+  },
+  "author": "rkiller",
+  "license": "CDDL-1.0",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "pr2",
+    "csgo",
+    "pr"
+  ]
+}
